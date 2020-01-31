@@ -21,11 +21,14 @@
   },
   "homepage": "https://github.com/401-advanced-javascript-Rashid/Lab-Class-03#readme",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.0.1",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.0",
     "fs": "0.0.1-security",
     "jest": "^25.1.0",
     "lint": "^0.7.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.8.10",
     "util": "^0.12.1"
   }
 }
