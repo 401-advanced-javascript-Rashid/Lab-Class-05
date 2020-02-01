@@ -19,8 +19,8 @@ In a relational database, you normalize the schema to eliminate redundancy by pu
 
 ## Links and Resources
 
-- [submission PR]
-- [ci/cd]
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-05/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/Lab-Class-05/runs/420924463?check_suite_focus=true)
 
 ## Setup
 
@@ -36,7 +36,7 @@ In a relational database, you normalize the schema to eliminate redundancy by pu
 ## How to initialize/run your application (where applicable)
 
 - How do you run tests?
-     - 'npm test'
+     - 'npm run test'
      - 'npm run lint'
 ____
 - Any tests of note?
@@ -51,6 +51,6 @@ ____
 - Categories
 - Products
 
-#### UML
+# UML
 
-Link to an image of the UML for your application and response to events
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-05/NoSQL-Databases/assest/20200201_173947.jpg
